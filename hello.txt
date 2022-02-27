@@ -2,3 +2,4 @@ t1-1 insert
 t1-2 insert
 t1-2 insert
 t1-2 insert 1
+t1-2 insert 2
